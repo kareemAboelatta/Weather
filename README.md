@@ -1,6 +1,6 @@
-# WeatherApp
+# Weather App
 
-WeatherApp is a simple iOS application that provides real-time weather information based on your current location using the OpenWeatherMap API.
+Weather App is a simple iOS application that provides real-time weather information based on your current location using the OpenWeatherMap API.
 
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62241386/293710378-76859144-4eda-4b62-ab39-b228c9aa61c1.png" width="600" />
 
@@ -30,20 +30,21 @@ WeatherApp is a simple iOS application that provides real-time weather informati
 
 Clone the repository:
 
+
 ```bash
-git clone https://github.com/kareemAboelatta/WeatherApp.git
+git clone https://github.com/kareemAboelatta/Weather.git
 ```
 
 Navigate to the cloned directory:
 
 ```bash
-cd WeatherApp
+cd Weather
 ```
 
 Open the project in Xcode:
 
 ```bash
-open WeatherApp.xcodeproj
+open Weather.xcodeproj
 ```
 
 Build and run the application.
