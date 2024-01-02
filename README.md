@@ -10,11 +10,12 @@ WeatherApp is a simple iOS application that provides real-time weather informati
 
 ## Screenshots
 
-Replace the following image paths with the actual URLs where your screenshots are hosted.
+<p float="left">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62241386/293707161-8e0926f2-c7b4-41d2-9236-d98bc6a9cd8b.jpeg" width="300" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62241386/293705900-7c2a073f-8a68-4db8-b29a-9984f513e198.png" width="300" /> 
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62241386/293706228-b55c9241-37c0-4ddf-90cf-4b5698166858.png" width="300" />
+</p>
 
-![Home Screen](https://github-production-user-asset-6210df.s3.amazonaws.com/62241386/293705211-09650688-11bf-4913-974b-ddfa5adc664e.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240102%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240102T134551Z&X-Amz-Expires=300&X-Amz-Signature=427dd4322342f2cc7f78e4e69d0d636133f22bfa53b16224ed370a228a6c57a4&X-Amz-SignedHeaders=host&actor_id=62241386&key_id=0&repo_id=738121452)
-![Request Permission Screen](https://github.com/kareemAboelatta/Weather/assets/62241386/7c2a073f-8a68-4db8-b29a-9984f513e198)
-![Weather Detail](https://github.com/kareemAboelatta/Weather/assets/62241386/7c2a073f-8a68-4db8-b29a-9984f513e198)
 
 ## Requirements
 
@@ -47,8 +48,6 @@ Build and run the application.
 ## Usage
 
 Upon launching the app, it will request your location permission. After granting permission, the app will fetch and display the current weather in your location.
-
-
 
 
 ## Acknowledgments
