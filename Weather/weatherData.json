@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": 0,
+        "lat": 0
+    },
+    "weather": [
+        {
+            "id": 501,
+            "main": "Rain",
+            "description": "moderate rain",
+            "icon": "10d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 27.3,
+        "feels_like": 30.31,
+        "temp_min": 27.3,
+        "temp_max": 27.3,
+        "pressure": 1015,
+        "humidity": 79,
+        "sea_level": 1015,
+        "grnd_level": 1015
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.76,
+        "deg": 129,
+        "gust": 4.31
+    },
+    "rain": {
+        "1h": 1.94
+    },
+    "clouds": {
+        "all": 85
+    },
+    "dt": 1704187630,
+    "sys": {
+        "sunrise": 1704175197,
+        "sunset": 1704218830
+    },
+    "timezone": 0,
+    "id": 6295630,
+    "name": "Globe",
+    "cod": 200
+}
