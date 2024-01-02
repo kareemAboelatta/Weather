@@ -7,7 +7,7 @@ import CoreLocationUI
 struct ContentView: View {
     var body: some View {
         Home()
-        FakeDesign()
+//        FakeDesign()
     }
 }
 

@@ -10,11 +10,17 @@ struct Welcome: View {
     var body: some View {
         VStack(spacing: 20, content: {
             Text("Welcome to the\nWeather App")
-                .font(.title)
+                .font(.largeTitle)
+                .foregroundColor(.white) // Added this line for white text
+
                 .bold()
+            
             Text("Please share your current location to get the weather in your area")
                 .multilineTextAlignment(.center)
                 .padding()
+                .foregroundColor(.white) // Added this line for white text
+
+            
             LocationButton(.shareCurrentLocation) {
                 locationManager.requestLocation()
             }
