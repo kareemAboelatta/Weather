@@ -30,21 +30,21 @@ WeatherApp is a simple iOS application that provides real-time weather informati
 
 Clone the repository:
 
-\```bash
+```bash
 git clone https://github.com/kareemAboelatta/WeatherApp.git
-\```
+```
 
 Navigate to the cloned directory:
 
-\```bash
+```bash
 cd WeatherApp
-\```
+```
 
 Open the project in Xcode:
 
-\```bash
+```bash
 open WeatherApp.xcodeproj
-\```
+```
 
 Build and run the application.
 
