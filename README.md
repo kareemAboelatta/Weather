@@ -2,6 +2,8 @@
 
 WeatherApp is a simple iOS application that provides real-time weather information based on your current location using the OpenWeatherMap API.
 
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62241386/293710378-76859144-4eda-4b62-ab39-b228c9aa61c1.png" width="600" />
+
 ## Features
 
 - Real-time weather updates
@@ -9,6 +11,7 @@ WeatherApp is a simple iOS application that provides real-time weather informati
 - Elegant and user-friendly interface
 
 ## Screenshots
+
 
 <p float="left">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62241386/293707161-8e0926f2-c7b4-41d2-9236-d98bc6a9cd8b.jpeg" width="300" />
